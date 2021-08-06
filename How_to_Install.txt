@@ -1,5 +1,6 @@
 
-On Linux you must first install youtube-dl and ffmpeg.
+If you are using Windows, then just have the Programs folder in thesame Directory as the python file
+and everything should work just fine. On Linux however, you must first install youtube-dl and ffmpeg.
 
 # Installing youtube-dl on Ubuntu Linux via PPA commands
 
