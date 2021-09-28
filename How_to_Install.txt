@@ -3,9 +3,7 @@ first install the colored module for python3
 
 $ pip install colored
 
-Then if you are using Windows, just simply have the Programs folder in thesame directory as the python file and everything should work
-
-On Linux however you must first install youtube-dl and ffmpeg.
+Install youtube-dl and ffmpeg.
 
 # Installing youtube-dl on Ubuntu Linux via PPA commands
 
